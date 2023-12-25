@@ -1,0 +1,177 @@
+{
+  "Acqua": {
+    "quantity": 3000,
+    "remaining_time": 10,
+    "price": 0.15
+  },
+  "Olio extravergine d'oliva": {
+    "quantity": 600,
+    "remaining_time": 10,
+    "price": 11.0
+  },
+  "Sale": {
+    "quantity": 500,
+    "remaining_time": 10,
+    "price": 1.0
+  },
+  "Origano": {
+    "quantity": 100,
+    "remaining_time": 10,
+    "price": 13.0
+  },
+  "Passata di pomodoro": {
+    "quantity": 1000,
+    "remaining_time": 3,
+    "price": 2.3
+  },
+  "Pepe": {
+    "quantity": 100,
+    "remaining_time": 10,
+    "price": 12
+  },
+  "Farina": {
+    "quantity": 1000,
+    "remaining_time": 10,
+    "price": 1.4
+  },
+  "Aglio": {
+    "quantity": 100,
+    "remaining_time": 5,
+    "price": 4.0
+  },
+  "Penne rigate": {
+    "quantity": 1000,
+    "remaining_time": 10,
+    "price": 2.1
+  },
+  "Pomodori pelati": {
+    "quantity": 2000,
+    "remaining_time": 10,
+    "price": 1.7
+  },
+  "Uova": {
+    "quantity": 800,
+    "remaining_time": 3,
+    "price": 10.0
+  },
+  "Tuorli": {
+    "quantity": 200,
+    "remaining_time": 3,
+    "price": 10.0
+  },
+  "Vino bianco": {
+    "quantity": 1000,
+    "remaining_time": 3,
+    "price": 5.0
+  },
+  "Prezzemolo": {
+    "quantity": 190,
+    "remaining_time": 5,
+    "price": 2.2
+  },
+  "Petto di pollo": {
+    "quantity": 1500,
+    "remaining_time": 2,
+    "price": 11.0
+  },
+  "Peperoni rossi": {
+    "quantity": 250,
+    "remaining_time": 1,
+    "price": 3.0
+  },
+  "Peperoni gialli": {
+    "quantity": 250,
+    "remaining_time": 1,
+    "price": 3.0
+  },
+  "Peperoni verdi": {
+    "quantity": 250,
+    "remaining_time": 1,
+    "price": 3.0
+  },
+  "Mezze Maniche Rigate": {
+    "quantity": 500,
+    "remaining_time": 10,
+    "price": 2.1
+  },
+  "Basilico": {
+    "quantity": 100,
+    "remaining_time": 10,
+    "price": 20.0
+  },
+  "Limone": {
+    "quantity": 300,
+    "remaining_time": 10,
+    "price": 0.7
+  },
+  "Pomodorini": {
+    "quantity": 1000,
+    "remaining_time": 2,
+    "price": 5.0
+  },
+  "Peperoncino": {
+    "quantity": 200,
+    "remaining_time": 10,
+    "price": 8.0
+  },
+  "Carote": {
+    "quantity": 500,
+    "remaining_time": 4,
+    "price": 2.0
+  },
+  "Sedano": {
+    "quantity": 500,
+    "remaining_time": 3,
+    "price": 2.0
+  },
+  "Cipolle": {
+    "quantity": 500,
+    "remaining_time": 3,
+    "price": 1.75
+  },
+  "Rosmarino": {
+    "quantity": 150,
+    "remaining_time": 10,
+    "price": 7.0
+  },
+  "Salvia": {
+    "quantity": 50,
+    "remaining_time": 10,
+    "price": 2.2
+  },
+  "Alloro": {
+    "quantity": 50,
+    "remaining_time": 10,
+    "price": 2.2
+  },
+  "Timo": {
+    "quantity": 50,
+    "remaining_time": 10,
+    "price": 2.2
+  },
+  "Zucchero": {
+    "quantity": 1000,
+    "remaining_time": 10,
+    "price": 1.5
+  },
+  "Latte": {
+    "quantity": 2000,
+    "remaining_time": 3,
+    "price": 2.0
+  },
+  "Scalogno": {
+    "quantity": 100,
+    "remaining_time": 5,
+    "price": 5.5
+  },
+  "Spaghetti": {
+    "quantity": 2000,
+    "remaining_time": 10,
+    "price": 2.1
+  },
+  "Tonno": {
+    "quantity": 300,
+    "remaining_time": 2,
+    "price": 10.0
+  }
+}
